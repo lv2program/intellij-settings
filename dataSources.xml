@@ -1,0 +1,40 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="postgres@test" uuid="34ad8441-2d12-4d7b-bd03-c0024d99d758">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://pellefant.db.elephantsql.com:5432/umycpxmx</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="sambadev@localhost" uuid="65ff18f9-9cb6-4e36-8999-d29e6bd76dc3">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/sambadev</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="sambaunit@localhost" uuid="d05db020-d02f-4b9a-9352-54b06d7ecd13">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/sambaunit</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="postfacto" uuid="35bd560d-dc21-40c1-a11a-275ebc035f48">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://baasu.db.elephantsql.com:5432/cbhclzxc</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="postgres@PROD" uuid="43bfc25e-a542-4d41-a07a-df3c0b531103">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://cf-11779345-2c9d-4a59-a950-02c9bb5c1e26.ckdblwgxjcx6.us-east-1.rds.amazonaws.com:5432/cf_117793452c9d4a59a95002c9bb5c1e26</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="postgres@acceptance" uuid="1b928705-1ae5-4f3c-a202-b10a8bcc5c59">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://baasu-01.db.elephantsql.com:5432/iqcjgwyy</jdbc-url>
+    </data-source>
+  </component>
+</application>
