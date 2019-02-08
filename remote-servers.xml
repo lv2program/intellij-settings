@@ -1,0 +1,12 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="CloudFoundry" type="cloudfoundry">
+      <configuration email="tcordova@sambasafety.com">
+        <option name="apiUrl" value="http://api.run.pivotal.io" />
+        <option name="domain" value="" />
+        <option name="organization" value="samba-dev" />
+        <option name="space" value="development" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
