@@ -1,0 +1,124 @@
+<application>
+  <component name="Clover">
+    <option name="sid" value="BT9X-TM5Z-Q2U8-FNW2" />
+  </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/styleguide/intellij-java-google-style.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/yarn">
+      <version-cache version="1.9.4" last-modified="1535332084000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.9.0/bin/node">
+      <version-cache version="10.8.0" last-modified="1535342866000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.8.0" last-modified="1535342866000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.0.0/bin/node">
+      <version-cache version="10.8.0" last-modified="1535331678000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="123-139-255-255,,,52-37-17-255,,,61-50-35-255,,,91-79-54-255,,,73-61-40-255,,,63-126-196-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.922403" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="PostgreSQL" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Other" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.109529026" />
+    <property name="InstalledPluginsSearchHistory" value="es lint&#10;cucumber&#10;vue&#10;scala" />
+    <property name="JUnit.Splitter.Proportion" value="0.4596888" />
+    <property name="JUnitSupport.hideIgnoredTests" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="true" />
+    <property name="JestJavaScriptTestRunner.Splitter.Proportion" value="0.33694476" />
+    <property name="JestJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="JestJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="KEYMAP" value="lint&#10;close all&#10;new bran&#10;branches&#10;caret" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesBash" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PG_DUMP_CLI_PACK_LAST_USED_CONFIGURATION" value="PG_DUMP_PROPERTIES" />
+    <property name="PG_DUMP_PROPERTIES_COMMAND" value="--file=&quot;/Users/tommycordova/dumpBackupLotsOfData.sql&quot; --column-inserts --data-only" />
+    <property name="PG_DUMP_PROPERTIES_EXPANDED" value="true" />
+    <property name="PG_DUMP_PROPERTIES_PATH" value="/usr/local/bin/pg_dump" />
+    <property name="PG_DUMP_PROPERTIES_VARIANTS_903023878" value="-f --file= -F --format= -j --jobs= -v --verbose -V --version -Z --compress= --lock-wait-timeout= --no-sync --help -a --data-only -b --blobs -B --no-blobs -c --clean -C --create -E --encoding= -n --schema= -N --exclude-schema= -o --oids -O --no-owner -s --schema-only -S --superuser= -t --table= -T --exclude-table= -x --no-privileges --binary-upgrade --column-inserts --disable-dollar-quoting --disable-triggers --enable-row-security --exclude-table-data= --if-exists --inserts --no-publications --no-security-labels --no-subscriptions --no-synchronized-snapshots --no-tablespaces --no-unlogged-table-data --quote-all-identifiers --section= --serializable-deferrable --snapshot= --strict-names --use-set-session-authorization -d --dbname= -h --host= -p --port= -U --username= -w --no-password -W --password --role= &lt;" />
+    <property name="PG_RESTORE_CLI_PACK_LAST_USED_CONFIGURATION" value="PSQL_RESTORE_CONFIGURATION" />
+    <property name="PG_RESTORE_PROPERTIES_COMMAND" value=" --dbname=sambadev &quot;/Users/tommycordova/dump.sql&quot;" />
+    <property name="PG_RESTORE_PROPERTIES_EXPANDED" value="true" />
+    <property name="PG_RESTORE_PROPERTIES_PATH" value="/usr/local/bin/pg_restore" />
+    <property name="PG_RESTORE_PROPERTIES_VARIANTS_1692028476" value="-d --dbname= -f --file= -F --format= -l --list -v --verbose -V --version --help -a --data-only -c --clean -C --create -e --exit-on-error -I --index= -j --jobs= -L --use-list= -n --schema= -N --exclude-schema= -O --no-owner -P --function= -s --schema-only -S --superuser= -t --table= -T --trigger= -x --no-privileges --single-transaction --disable-triggers --enable-row-security --if-exists --no-data-for-failed-tables --no-publications --no-security-labels --no-subscriptions --no-tablespaces --section= --strict-names --use-set-session-authorization -h --host= -p --port= -U --username= -w --no-password -W --password --role= --section &lt;" />
+    <property name="PLUGIN_FILTER" value="scss l&#10;prettier&#10;file watchers&#10;css format&#10;format" />
+    <property name="PSQL_RESTORE_CONFIGURATION_COMMAND" value=" sambadev --file=&quot;/Users/tommycordova/dump.sql&quot;" />
+    <property name="PSQL_RESTORE_CONFIGURATION_EXPANDED" value="true" />
+    <property name="PSQL_RESTORE_CONFIGURATION_PATH" value="/usr/local/bin/psql" />
+    <property name="PSQL_RESTORE_CONFIGURATION_VARIANTS_1558808020" value="-c --command= -d --dbname= -f --file= -l --list -v --set= --variable= -V --version -X --no-psqlrc --single-transaction --help --help= -a --echo-all -b --echo-errors -e --echo-queries -E --echo-hidden -L --log-file= -n --no-readline -o --output= -q --quiet -s --single-step -S --single-line -A --no-align -F --field-separator= -H --html -P --pset= -R --record-separator= -t --tuples-only -T --table-attr= -x --expanded -z --field-separator-zero --record-separator-zero -h --host= -p --port= -U --username= -w --no-password -W --password &lt;" />
+    <property name="SearchEveryWhereHistory" value="Chuck&#10;Ur&#10;``" />
+    <property name="SettingsSearchHistory" value="memory&#10;format as&#10;keymap&#10;es lint&#10;format" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.6627358" />
+    <property name="SplitFileEditor.Proportion" value="0.33193716" />
+    <property name="SpringBeansModulesPanel[0]" value="0.06123699" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="inte&#10;java" />
+    <property name="TrendingPluginsSearchHistory" value="bash format&#10;scala" />
+    <property name="Vcs.Log.Text.Filter.History" value="no hit&#10;159314243&#10;#159314243" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="425" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="282" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.splitter" value="0.5882353" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="221" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="cucumberSupport.hidePassedTests" value="false" />
+    <property name="database.data.extractors.single.file" value="true" />
+    <property name="database.data.extractors.sql.skip.computed" value="false" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="dir.diff.panel.divider.location" value="867" />
+    <property name="dir.diff.space.button.info" value="3" />
+    <property name="evlsprt.181" value="163d82ed27a" />
+    <property name="evlsprt2.181" value="1638b0c38c5" />
+    <property name="evlsprt3.181" value="15" />
+    <property name="evlsprt3.182" value="10" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="file.chooser.recent.files" value="/usr/local/bin/yarn" />
+    <property name="file.gist.reindex.count" value="737287" />
+    <property name="fileTypeChangedCounter" value="9" />
+    <property name="import_modality_state" value="false" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="54522" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="kotlin.lastUpdateCheck" value="1529599303268" />
+    <property name="last.imported.location" value="$USER_HOME$/config-repo" />
+    <property name="lastTip" value="1" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="$USER_HOME$/Pictures/blackBackground.jpeg&#10;/Users/tommycordova/Pictures/blackPaisley.jpg" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="project.wizard.group" value="WEB_MODULE" />
+    <property name="project.wizard.template" value="Vue.js" />
+    <property name="search.everywhere.max.popup.width" value="1008" />
+    <property name="selected.color.option.type" value="GUTTER_BACKGROUND" />
+    <property name="settings.code.style.selected.tab.CSS" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.Groovy" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.csv" value="Settings" />
+    <property name="settings.code.style.selected.tab.yaml" value="Tabs and Indents" />
+    <property name="spring.assinstant.initializr.last.known.server.url" value="https://start.spring.io" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.38839644" />
+  </component>
+</application>
