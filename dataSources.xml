@@ -36,5 +36,17 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://baasu-01.db.elephantsql.com:5432/iqcjgwyy</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="ssawspgsql:billingRO" uuid="86116653-4059-48f3-8b54-7d5db9418174">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:15448/billing</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ssawsdrmpsql:drmbillingRO" uuid="3dcc116d-49f4-4f3e-a94a-c0f159a5949e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:15442/drm_billing</jdbc-url>
+    </data-source>
   </component>
 </application>
